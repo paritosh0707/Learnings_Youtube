@@ -59,7 +59,7 @@ Before delving into the comparison of Llama index and L-chain, it's important to
 The choice between Llama index and L-chain depends on the specific requirements of the application. If the focus is on efficient search and retrieval, Llama index is the preferred choice. For building comprehensive LLM applications with advanced functionalities, L-chain offers a more robust solution. Additionally, the two frameworks can be combined to enhance the capabilities of the application.
 
 
-Post Content : 
+# Post Content : 
 
 🔍 Dive deep into the world of Generative AI with this insightful comparison between the Llama index and L-chain frameworks! 🧠💡
 
