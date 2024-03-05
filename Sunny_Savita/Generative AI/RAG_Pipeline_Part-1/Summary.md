@@ -54,7 +54,7 @@ Various databases can be used to store embeddings and indexes:
 * Enhancing model performance on domain-specific tasks.
 # Upcoming Topics in the Series
 
-### Future videos in the series will cover:
+### Future Topics in the series will cover:
 
 * Retrieval pipeline
 * Generation pipeline
