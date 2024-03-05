@@ -1,3 +1,6 @@
+# Video Link
+https://www.youtube.com/watch?v=EoauGRf_VCA
+
 # Introduction
 
 This video lecture provides a detailed comparison between the Llama index and the L-chain framework for building generative AI applications. Generative AI involves using large language models (LLMs) to generate text, images, or other forms of data. The Llama index and L-chain are two open-source frameworks that help streamline the development of such applications.
