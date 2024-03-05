@@ -48,13 +48,13 @@ Various databases can be used to store embeddings and indexes:
 * Enabling access to knowledge not present in the LLM's training data.
 * Reducing the risk of incorrect information from the LLM.
 * Enhancing model performance on domain-specific tasks.
-* Upcoming Topics in the Series
+# Upcoming Topics in the Series
 
-Future videos in the series will cover:
+### Future videos in the series will cover:
 
-Retrieval pipeline
-Generation pipeline
-Multimodal RAG
-RAG versus fine-tuning
-Evaluation metrics for RAG systems
-Improving RAG systems with research papers
+* Retrieval pipeline
+* Generation pipeline
+* Multimodal RAG
+* RAG versus fine-tuning
+* Evaluation metrics for RAG systems
+* Improving RAG systems with research papers
