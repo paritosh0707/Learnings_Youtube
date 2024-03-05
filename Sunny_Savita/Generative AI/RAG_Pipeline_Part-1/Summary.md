@@ -1,3 +1,7 @@
+# Video Link
+https://www.youtube.com/watch?v=wTVTkOb3SZc
+
+
 # Introduction
 
 This video tutorial will cover retrieval argument generation (RAG), a technique used to enhance large language models (LLMs) like GPT-4, Gemini, and Llama. The tutorial is divided into multiple parts to provide an in-depth understanding of the topic.
